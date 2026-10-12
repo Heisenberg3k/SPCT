@@ -1,0 +1,7 @@
+.venv/
+.tools/
+.cache/
+runtime/
+__pycache__/
+*.py[cod]
+a.txt

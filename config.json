@@ -1,0 +1,8 @@
+{
+  "output_file": "D:\\Dev\\SPCT_Example\\a.txt",
+  "runtime_dir": "runtime",
+  "cli_path": "auto",
+  "model": "",
+  "timeout_seconds": 180,
+  "click_at_pointer": true
+}
